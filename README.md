@@ -6,5 +6,8 @@ has lots of questions for you about your business and the rental business in gen
 seems very generous, so you are going to entertain his questions.
 
 THE OBJECTIVE:
-Use MySQL to extract and analyze data from various tables in the Maven
-Movies database to answer your potential Acquirer’s questions. 
+Use MySQL to:
+•Access and explore the Maven Movies database
+•Develop a firm grasp of the 16 database tables and how they relate to each other
+•Analyze all aspects of the company’s data, including transactions, customers, staff, etc.
+This will help answer your potential Acquirer’s questions. 
